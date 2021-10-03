@@ -1,0 +1,13 @@
+#warningMsgContainer{
+    margin-left: 8em;
+    margin-top: 0.5em;
+    color: #a72525;
+}
+
+ul#listOfStocks > li{
+  margin-top:0.5em;
+}
+
+button[class^='removeStk']{
+  margin-left:0.5em;
+}
