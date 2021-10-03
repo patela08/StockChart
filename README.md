@@ -6,6 +6,6 @@ Based on user input and displays last sale price of stocks provided by the user 
 
 This also removes stocks from the chart and from the list if user decide to remove specific stock from the list.
 
-** Access app using following URL: **
+**Access app using following URL:**
 
 Stock chart can be accessed using [Stockchart](https://patela08.github.io/StockChart/)
